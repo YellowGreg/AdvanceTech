@@ -1,6 +1,6 @@
 # AdvanceTech
 
-Find Our Script We Made And Have Fun.
+Find Our Script We Made And Have Fun in Roblox.
 
 ## License
 
@@ -24,4 +24,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/YellowGreg/UltimateCr
 Prison Life V2
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/YellowGreg/PrisonLife-Gui-V1/main/PrisonLifeGuiV1"))()
+```
+RB Battles Season 3
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YellowGreg/Loadstring/main/AdvanceTech_RBBattles3.lua"))()
 ```
